@@ -16,6 +16,8 @@ This project has the following features:
 12. Story Book
 
 Steps:
-1. `npx create-react-app my-app --template redux-typescript`
-2. `npm i react-router-dom`
+1. CRA: `npx create-react-app my-app --template redux-typescript`
+2. React Router Dom: `npm i react-router-dom`
    1. `npm install --save @types/react-router-dom`
+3. ESlint (8.22.0) for Typescript: `npm install --save-dev @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint@8.22.0`
+3. Prettier: `npm install --save-dev prettier eslint-plugin-prettier`

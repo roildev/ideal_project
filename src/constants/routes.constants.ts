@@ -1,3 +1,4 @@
 export const MAIN_ROUTES = {
-    HOME: '/'
-}
+  HOME: '/',
+  ABOUT_US: '/about-us',
+};
